@@ -48,7 +48,19 @@ button:hover {
 	font-size: 14px;
 }
 
+.title {
+	text-align: center;
+}
 
+.shoppingList {
+	letter-spacing: 5px;
+	font-size: 150%;
+	color: white;
+	border: 5px solid gray;
+	background-color: #333;
+	margin: 2em 0;
+	padding: 1em 0;
+}
 
 
 
